@@ -4,4 +4,4 @@
 ## Practicing Markdown
 ### Test
 
-![http://www.247virtual-staffing.com/img/logo.png
+![logo of vs (http://www.247virtual-staffing.com/img/logo.png)]

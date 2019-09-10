@@ -4,3 +4,4 @@
 ## Practicing Markdown
 ### Test
 
+![Image of cat]

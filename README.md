@@ -3,3 +3,6 @@
 # AHNAF TAHMID CHOWDHURY
 ## Practicing Markdown
 ### Test
+
+- Bulleted
+- List

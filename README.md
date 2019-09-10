@@ -4,5 +4,3 @@
 ## Practicing Markdown
 ### Test
 
-- Bulleted
-- List

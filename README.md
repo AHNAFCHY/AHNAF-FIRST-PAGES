@@ -4,4 +4,4 @@
 ## Practicing Markdown
 ### Test
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![http://www.247virtual-staffing.com/img/logo.png
